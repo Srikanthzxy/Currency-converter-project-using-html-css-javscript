@@ -1,6 +1,7 @@
 # Currency-converter-project-using-html-css-javscript
 Currency converter  project using html, css, javscript ,we can convert any currency to any other currency value
 
+
 💱 Currency Converter
 A Currency Converter web application built using HTML, CSS, and JavaScript that allows users to convert currency values in real time based on exchange rates fetched from an API.
 
